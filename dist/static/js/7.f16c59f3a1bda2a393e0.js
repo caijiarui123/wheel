@@ -1,0 +1,2 @@
+webpackJsonp([7],{"3rbB":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    颜色\n")])},staticRenderFns:[]},l=t("C7Lr")(null,r,!1,null,null,null);n.default=l.exports}});
+//# sourceMappingURL=7.f16c59f3a1bda2a393e0.js.map
